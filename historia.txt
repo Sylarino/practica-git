@@ -1,1 +1,3 @@
 El primer texto que existe en este repositorio.
+
+Esto contendra muchas partes de ti y del pc.
