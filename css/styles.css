@@ -4,3 +4,12 @@ body{
     margin: auto 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(252, 241, 233);
+    border: 1px dotted slateblue;
+    border-radius: 10px;
+    margin: 50px 30px;
+    background-color: rgb(245, 98, 110);
+}
